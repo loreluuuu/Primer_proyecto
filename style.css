@@ -1,0 +1,18 @@
+body{
+    /* Comentario*/
+    /*Para cambiar colores primero se elige la etiqueta en la que se va a hacer una edición, luego se elige esta opción de back...-color y se escribe el color en inglés seguido de dos puntos*/
+    /* Combinación de colores -> rgb(valor1, valor2, valor3)*/
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(170,194,223,1) 100%);
+font-family: "Nunito", sans-serif;
+font-size: 14px;
+}
+
+.tayvestidoRojo{
+    width: 450px;
+    border-radius: 10++3px;
+}
+
+.imagenes{
+    text-align: center;
+}
